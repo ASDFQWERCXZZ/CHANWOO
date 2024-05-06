@@ -1,0 +1,7 @@
+train: C:\Users\CHANWOO\tank_2\train\images\
+val: C:\Users\CHANWOO\tank_2\valid\images\
+
+
+nc: 1
+names: ['ikw_tank']
+
